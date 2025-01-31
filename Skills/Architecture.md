@@ -1,70 +1,70 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns !
-  - Inversion of Control !
-  - Dependency Injection !
-  - GoF Creational ~
-  - GoF Structural ~
-  - GoF Behavioral ~
-  - GRASP ~
-  - SOLID !
-  - CQS !
-  - Modularity !
-  - Subsystems !
-  - Directories !
-  - Leaking abstractions ~
-  - Multiparadigm code !
-  - Contract programming ~
-  - Platform-agnostic ~
-  - Transport-agnostic ~
-  - Framework-agnostic ~
-  - Code coverage !
-  - Cohesion !
-  - Coupling !
-  - Cyclomatic complexity !
-  - Reliability !
-  - Quality !
-  - Availability !
-  - Flexibility !
-  - Law of Demeter (LoD) ~
+  - Separation of concerns: 🙋 explained
+  - Inversion of Control: 🙋 explained
+  - Dependency Injection: 🙋 explained
+  - GoF Creational: 👂 heard
+  - GoF Structural: 👂 heard
+  - GoF Behavioral: 👂 heard
+  - GRASP: 👂 heard
+  - SOLID: 🙋 explained
+  - CQS: 🙋 explained
+  - Modularity: 🙋 explained
+  - Subsystems: 🙋 explained
+  - Directories: 🙋 explained
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 🙋 explained
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 👂 heard
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🙋 explained
+  - Cohesion: 🙋 explained
+  - Coupling: 🙋 explained
+  - Cyclomatic complexity: 🙋 explained
+  - Reliability: 🙋 explained
+  - Quality: 🙋 explained
+  - Availability: 🙋 explained
+  - Flexibility: 🙋 explained
+  - Law of Demeter (LoD): 👂 heard
 - Application architecture
-  - Isolation between layer !
+  - Isolation between layer: 🙋 explained
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach ~
-  - Hexagonal architecture ~
-  - Separation of concerns (SoC) *
-  - Metaprogramming ~
-  - Inversion of control (IoC) *
-  - Dependency injection (DI) *
-  - Clean architecture ~
-  - Domain-driven design (DDD) ~
-  - Pub/sub *
-  - Message brocker !
-  - Agent ~
+  - Multilayer approach: 👂 heard
+  - Hexagonal architecture: 👂 heard
+  - Separation of concerns (SoC): 🖐️ used
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 👂 heard
+  - Domain-driven design (DDD): 👂 heard
+  - Pub/sub: 🖐️ used
+  - Message brocker: 🙋 explained
+  - Agent: 👂 heard
   - Service locator
-  - Message Queue (MQ) !
-  - CQRS ~
+  - Message Queue (MQ): 🙋 explained
+  - CQRS: 👂 heard
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram !
+  - Entity-relationship diagram: 🙋 explained
   - IDEF1X
-  - UML *
+  - UML: 🖐️ used
   - Work breakdown structure
-  - Budget estimation ~
-  - Distributed systems *
+  - Budget estimation: 👂 heard
+  - Distributed systems: 🖐️ used
   - High-intensive computing
-  - Load balancing ~
-  - Gateways *
-  - On-premises ~
-  - IaaS ~
-  - PaaS ~
-  - SaaS *
-  - FaaS clouds ~
-  - Serverless ~
+  - Load balancing: 👂 heard
+  - Gateways: 🖐️ used
+  - On-premises: 👂 heard
+  - IaaS: 👂 heard
+  - PaaS: 👂 heard
+  - SaaS: 🖐️ used
+  - FaaS clouds: 👂 heard
+  - Serverless: 👂 heard
   - Vendor lock-in
-  - Bus factor ~
+  - Bus factor: 👂 heard
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
@@ -75,15 +75,15 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds ~
+  - Clouds: 👂 heard
   - BPMN
-  - Low-code ~
-  - No-code ~
-  - Metric ~
-  - Metric abuse ~
-  - ACID !
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
+  - Metric: 👂 heard
+  - Metric abuse: 👂 heard
+  - ACID: 🙋 explained
   - CAP theorem
-  - Single source of truth (SSOT) ~
+  - Single source of truth (SSOT): 👂 heard
 - Enterprise architecture
   - Understanding business needs
   - Enterprise strategy
@@ -93,13 +93,13 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices *
+  - Microservices: 🖐️ used
   - Process choreography
-  - Service orchestration ~
+  - Service orchestration: 👂 heard
   - Data warehouse
   - Business Intelligence
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance *
+  - Quality assurance: 🖐️ used
   - Engineering Hygiene

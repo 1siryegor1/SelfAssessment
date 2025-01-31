@@ -1,24 +1,24 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming +
+  - Procedural programming: 🎓 known
   - Imperative programming
-  - Structured programming +
+  - Structured programming: 🎓 known
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming *
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming ~
-  - Parallel programming ~
+  - Asynchronous programming: 👂 heard
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming ~
-  - Metaprogramming ~
+  - Multi-paradigm programming: 👂 heard
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
@@ -27,65 +27,65 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor *
-  - Operator `new` *
-  - Static method *
-  - Method *
-  - Async method *
-  - Getters, Setters *
-  - Public fields *
-  - Private fields *
-  - Field declarations *
-  - Inheritance *
-  - Parent class *
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
   - Polymorphism
-  - Abstract class *
-  - Interface *
-  - Encapsulation *
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
   - Hidden class
   - Object form
-  - Instance *
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
 - GRASP
-  - Information expert !
-  - Creator ~
-  - Controller !
-  - Indirection ~
-  - Low coupling !
-  - High cohesion !
+  - Information expert: 🙋 explained
+  - Creator: 👂 heard
+  - Controller: 🙋 explained
+  - Indirection: 👂 heard
+  - Low coupling: 🙋 explained
+  - High cohesion: 🙋 explained
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) !
-  - Open–closed principle (OCP) !
-  - Liskov substitution principle (LSP) +
-  - Interface segregation principle (ISP) !
-  - Dependency inversion principle (DIP) !
+  - Single-responsibility principle (SRP): 🙋 explained
+  - Open–closed principle (OCP): 🙋 explained
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 🙋 explained
+  - Dependency inversion principle (DIP): 🙋 explained
 - Patterns
-  - Singleton !
-  - Factory Method !
-  - Abstract Factory +
-  - Adapter !
-  - Observer !
-  - Strategy !
-  - Facade +
-  - Proxy !
-  - Chain of Responsibility +
+  - Singleton: 🙋 explained
+  - Factory Method: 🙋 explained
+  - Abstract Factory: 🎓 known
+  - Adapter: 🙋 explained
+  - Observer: 🙋 explained
+  - Strategy: 🙋 explained
+  - Facade: 🎓 known
+  - Proxy: 🙋 explained
+  - Chain of Responsibility: 🎓 known
   - Command
-  - Iterator +
+  - Iterator: 🎓 known
   - State
-  - Bridge +
-  - Builder !
-  - Prototype !
-  - Composite +
-  - Decorator !
-  - Flyweight +
+  - Bridge: 🎓 known
+  - Builder: 🙋 explained
+  - Prototype: 🙋 explained
+  - Composite: 🎓 known
+  - Decorator: 🙋 explained
+  - Flyweight: 🎓 known
   - Mediator
   - Memento
   - Template Method
   - Visitor
   - Reactor
   - Active object
-  - Delegation +
+  - Delegation: 🎓 known
